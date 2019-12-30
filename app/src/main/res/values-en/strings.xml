@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MalangCity">Malang City, East Java, Indonesia</string>
+    <string name="Follower">Followers</string>
+    <string name="Posting">Posting</string>
+    <string name="Following">Following</string>
+    <string name="Email">Email Address</string>
+    <string name="Number">Phone Number</string>
+    <string name="Project">Project</string>
+    <string name="Project1">Make a Simple Task</string>
+    <string name="Hobby">Hobby</string>
+    <string name="Hobby1">Eat and Breathe</string>
+</resources>

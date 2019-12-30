@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MalangCity">Kota Malang, Jawa Timur, Indonesia</string>
+    <string name="Follower">Pengikut</string>
+    <string name="Posting">Postingan</string>
+    <string name="Following">Mengikuti</string>
+    <string name="Email">Alamat Email</string>
+    <string name="Number">Nomor Telepon</string>
+    <string name="Project">Projek</string>
+    <string name="Project1">Membuat Desain Sederhana</string>
+    <string name="Hobby">Hobi</string>
+    <string name="Hobby1">Makan dan Bernafas</string>
+</resources>
